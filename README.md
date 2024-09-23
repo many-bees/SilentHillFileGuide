@@ -19,7 +19,7 @@ Silent Hill 2 map viewer that allows maps to be exported into .obj format. For s
 ### [Silent Hill Explorer](https://drive.google.com/file/d/1aVf7DRGpgFQgle50gO6HSkozNHjlJVgr/view)
 Exports usable files from .arc files
 
-### [SH#_chr](https://github.com/alanm20/SH3_chr/tree/main)
+### [SH3_chr](https://github.com/alanm20/SH3_chr/tree/main)
 Despite being called a character loader it can also load anything else that's in the .mdl format
 
 # Silent Hill 4
