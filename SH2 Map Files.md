@@ -1,4 +1,4 @@
-### Silent Hill 2\data\bg - All environments from the main game
+# Silent Hill 2\data\bg - All environments from the main game
 ## ap - apartments
 ## bw - bowling alley
 ## ca - area outside the town itself
@@ -16,6 +16,6 @@
 ## ru - burnt hotel
 ## th - heaven's night
 
-### Silent Hill 2\data\bg2 - Environments from Born From A Wish
+# Silent Hill 2\data\bg2 - Environments from Born From A Wish
 ## ma - Baldwin house and other areas exclusive to bfaw
-# ma85 - rooftop
+### ma85 - rooftop
