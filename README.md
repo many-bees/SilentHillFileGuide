@@ -4,15 +4,17 @@ Haven't tried this one out myself yet
 
 # Silent Hill 2
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
-This page also lists a model exporter but it's in .obj format so you're better off just downloading stuff from [Silent Hill Museum](https://silenthillmuseum.org/)
+Allows the browsing of various archives to view and extract textures from them. This page also lists a model exporter but it's in .obj format so you're better off just downloading stuff from [Silent Hill Museum](https://silenthillmuseum.org/).
 
 ### [Silent Hill Explorer](https://drive.google.com/file/d/1aVf7DRGpgFQgle50gO6HSkozNHjlJVgr/view)
+General extraction tool for various files found in Silent Hill 2 & 3. Can be used to get stuff like .mdl files and .adx files from the game but usually other programs are needed to convert those files into a usable form.
 
 ### [Psilent pHill 2](https://github.com/pmttavara/ph2/tree/main)
 Silent Hill 2 map viewer that allows maps to be exported into .obj format. For some reason when you loaed them into Blender their massive though so scale the mesh down a bunch if you wanna actually see it.
 
 # Silent Hill 3
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
+Seems to have some problems with SH3 specifically but I'm not sure if that's the program's fault or the game's. 
 
 ### [Useful guide for .mdl files](https://youtu.be/zdLDgnbHfHU)
 
@@ -20,7 +22,7 @@ Silent Hill 2 map viewer that allows maps to be exported into .obj format. For s
 Exports usable files from .arc files
 
 ### [SH3_chr](https://github.com/alanm20/SH3_chr/tree/main)
-Despite being called a character loader it can also load anything else that's in the .mdl format
+Despite being called a character loader it can also load anything else that's in the .mdl format such as items and weapons.
 
 # Silent Hill 4
 ### [sh4worldmeshimport](https://github.com/HunterStanton/sh4worldmeshimport)
