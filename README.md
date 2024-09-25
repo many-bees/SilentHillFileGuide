@@ -1,6 +1,6 @@
 # Silent Hill 1
 ### [Duckstation 3D Screenshot](https://github.com/scurest/duckstation-3D-Screenshot)
-Haven't tried this one out myself yet
+Models don't come rigged so it's not an ideal solution but it gets everyothing out perfectly fine.
 
 # Silent Hill 2
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
