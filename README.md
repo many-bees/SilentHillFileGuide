@@ -14,7 +14,7 @@ Silent Hill 2 map viewer that allows maps to be exported into .obj format. For s
 
 # Silent Hill 3
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
-Seems to have some problems with SH3 specifically but I'm not sure if that's the program's fault or the game's. 
+Seems to have some problems with SH3 specifically but I'm not sure if that's the program's fault or the game's. Just keep in mind that some textures may need to be edited.
 
 ### [Useful guide for .mdl files](https://youtu.be/zdLDgnbHfHU)
 
