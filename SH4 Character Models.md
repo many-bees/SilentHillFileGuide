@@ -33,4 +33,9 @@ enemy_model_cyo.bin - Victim 16
 sb03.bin - doll seen in subway world
 
 
-Jasper may be missing some texture files too
+### Jasper
+gei.bin
+
+gei_zk.bin
+
+geik.bin
