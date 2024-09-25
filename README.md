@@ -29,9 +29,12 @@ Despite being called a character loader it can also load anything else that's in
 Blender addon to import .bin files that contain world meshes. Works with the PC version only.
 
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
-Site lists it as only working for 2 and 3 but it works for 4 just fine as well. Pretty sure it's PC version only.
-
+Site lists it as only working for 2 and 3 but it works for 4 as well. Has a tendency to leave out textures though.
 ### [Silent Hill 4 Noesis Plugin](https://youtu.be/4fNbtRQ7irM)
 Only works with .bin files from the xbox version of the game so you'll probably have to download a ROM. Also you have to remove fmt_bin.py from your Noesis plugins folder because it conflicts with this plugin.
+
+### [Spargas Silent-Hill Noesis Plugins](https://github.com/Sparagas/Silent-Hill)
+This can extract textures from .bin files and unlike the texture explorer tool it doesn't have a problem of leaving anything out. Also doesn't work if you've got the xbox plugin listed above installed.
+
 
 I figure everyone here knows how to download Noesis and Blender already and I don't need to list them. Also audio files from these games can be opened and converted with VLC Media Player.
