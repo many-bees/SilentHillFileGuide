@@ -1,13 +1,29 @@
 ### Henry
-henhk.bin - missing some textures on export. Mouth texture, shoe texture and a hair texture based on what's in henry01.bin. Unfortunately that model's textures are smaller in size. Unfortunately none of these chareactes have the same mouth UVs.
+henhk.bin - Normal Henry
 
 henry01.bin - Lower quality Henry
 
 kmnk.bin - Ghost Henry
 
 ### Eileen
-ei suffix is regular Eileen files
-eo suffix is nurse Eileen files
+eihk.bin - Injured party dress Eileen, what she looks like during the second half of the game
+
+eil.bin - Ditto but some of the textures are smaller I think
+
+eink.bin - Eileen for the first half of the game
+
+eis_zk.bin - Bloody Eileen from the cutscene where she's just been attacked by Walter
+
+eisk.bin - Party dress Eileen
+
+eohk.bin - Injured Eileen nurse outfit
+
+eol.bin - Same but with smaller textures
+
+eos_zk.bin - Bloody nurse outfit Eileen
+
+eosk.bin - Uningured nurse outfit Eileen 
+
 
 ### Cynthia
 all files starting with cy
