@@ -5,6 +5,7 @@
 ### gt - Invalid world mesh version
 ### hs - Hospital World
 * hs04 - hospital lower floor main hallway room thing
+* hs08 - stairs
 ### ie - Apartment World 2?
 ### mz - water prison
 ### sb - subway
