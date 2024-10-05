@@ -50,6 +50,10 @@
 ## qp - Mary's room from normal endings and the control room from the dog ending
 ## qt - different version of Mary's room seemily missing some parts
 ## rr - hotel
+* rr01 - bar
+* rr05 - kitchen
+* rr21 - boiler room
+* rr25 - lobby
 ## ru - burnt hotel
 ## th - heaven's night
 
