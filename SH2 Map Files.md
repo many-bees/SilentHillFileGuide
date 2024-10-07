@@ -19,12 +19,12 @@
 * ap64.map - apartment with safe
 * ap72.map - two apartments connected by balcony
 * ap76.map - coin puzzle apartment
-* ap80.map - apartment with teddy bear
-* ap84.map - Angela mirror room
+* ap80.map - Blue Creek 109 main area, Angela teddy bear
+* ap84.map - Blue Creek 109 Angela mirror room
 * ap88 - pyramid head boss fight stairwell
 * ap92 - floor 1 hallway, blue creek?
 * ap96 - floor 2 hallway blue creek
-* ap100 - football room
+* ap100 - Woodside 101 football room
 * ap104 - floor 3 hallway blue creek
 * ap108 - blue painted stairwell
 ## bw - bowling alley
