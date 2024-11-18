@@ -54,6 +54,23 @@
 * rr05 - kitchen
 * rr21 - boiler room
 * rr25 - lobby
+* rr29 - floor 1 hallway
+* rr33 - floor 1 employee area
+* rr37 - reception desk
+* rr41 - restaurant
+* rr45 - office of some kind
+* rr49 - pantry
+* rr51 - employee break room
+* rr55 - basement? storage room and hall
+* rr59 - floor 2 west? wing hall
+* rr63 - floor 2 hall
+* rr67 - floor 2 hall
+* rr71 - reading room
+* rr75 - employee elevator room
+* rr79 - can't remember what it's called but there's a curtain and a briefcase
+* rr83 - two connected hotel rooms, one with photos all over the bed
+* rr87 - floor 3 hall
+* rr91 - room 312
 ## ru - burnt hotel
 ## th - heaven's night
 
