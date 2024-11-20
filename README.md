@@ -24,6 +24,9 @@ Exports usable files from .arc files
 ### [SH3_chr](https://github.com/alanm20/SH3_chr/tree/main)
 Despite being called a character loader it can also load anything else that's in the .mdl format such as items and weapons.
 
+### [Perdedork's Silent Hill Level Viewer](https://www.silenthillmemories.net/sh2/modding_en.htm)
+Unfortunately this doesn't allow for maps to be exported but I've managed to sorta save them using [3DVIA Printscreen](https://dassault-systemes-3dvia-printscreen.software.informer.com/download/) and this website called [3dEncoder](https://3dencoder.com/). Unfortunately that method doesn't include textures and I haven't yet figured out a way to extract all map textures but I'm working on it.
+
 # Silent Hill 4
 ### [sh4worldmeshimport](https://github.com/HunterStanton/sh4worldmeshimport)
 Blender addon to import .bin files that contain world meshes. Works with the PC version only.
