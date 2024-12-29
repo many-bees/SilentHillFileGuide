@@ -45,12 +45,39 @@
 
 ### rl - Room302
 * rl00 - Room 302 main room
+  * rl00a - Foggy daytime outside
+  * rl00b - Unclear difference
+  * rl00c - Sunset outside
+  * rl00d - Nighttime outside
+  * rl00e - Missing textures error on import
+  * rl00f - Rusty haunted apartment
+  * rl00g - Joseph's nightmare
+  * rl00h - Unlocked door and hole in wall
 * rl01 - Bedroom
+  * rl01a - Bedroom missing phone and side table
+  * rl01b - Bedroom
+  * rl01c - Nighttime
+  * rl01d - Haunted bedroom
 * rl02 - Bathroom
+  * rl02a - Intact Bathroom
+  * rl02b - Initial hole
+  * rl02c - Hole phase 2
+  * rl02d - Hole phase 3
+  * rl02e - Bloody bathtub
+  * rl02f - Halo hole
+  * rl02g - Sealed hole
+  * rl02h - Bloody bathtub with slightly smaller hole
 * rl03 - Closet
+  * rl03a - No walls
+  * rl03b - Hole
+  * rl03c - Regular closet
 * rl04 - Secret Room
+  * Can't tell difference between A and B
 * rl05 - Eileen's Room
+  * rl05a - Robbie looking away
 * rl06 - Hallway
 
 ls01 - Right before boss arena
 ls02 - Boss Arena
+
+Ceiling fan - Need to find for apartment
