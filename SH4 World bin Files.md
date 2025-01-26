@@ -46,7 +46,7 @@
 ### rl - Room302
 * rl00 - Room 302 main room
   * rl00a - Foggy daytime outside
-  * rl00b - Unclear difference
+  * rl00b - Same but with side table pushed aside to reveal hole in wall
   * rl00c - Sunset outside
   * rl00d - Nighttime outside
   * rl00e - Missing textures error on import
