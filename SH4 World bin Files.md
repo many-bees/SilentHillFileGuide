@@ -2,7 +2,23 @@
 * bd01 - Hotel South Ashfield roof
 * bd02 - Restaurant Fuseli sign
 * bd03 - Richard boss fight area
-* bd04
+* bd04 - Alleyway with storefront
+* bd05 - Area with vending machine
+* bd06 - Multilevel stairs
+* bd07 - Eric Walsh room
+* bd08 - Sports shop
+* bd09 - Room with shelves outside sports shop
+* bd10 - Multilevel stairs and large rooms
+* bd11 - Shower room
+* bd12 - Elevator shaft bottom
+* bd13 - Hallway where shovel weapon is found
+* bd14 - Bar
+* bd15 - Richard death room
+* bd16 -
+* bd17 -
+* bd18 -
+* bd19 -
+* bd20 - 
 ### cm - apartment world
 * cm01 - main stairway
 * cm02 - floor 1 and 2 hallways 1-4 side
