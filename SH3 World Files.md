@@ -17,7 +17,9 @@
 ### bgbu.arc - Hilltop Center otherworld
 ### bgcc.arc - Silent Hill exterior
 ### bgcm.arc - Douglas's car
+* cmf1.map - Douglas car, road, and trees
 ### bgcr.arc - church main chapel
+* cr11.map - Chapel
 ### bgcu.arc - the rest of the church
 ### bgcz.arc - final boss area
 ### bghc.arc - Leonard boss fight area and path to that area
@@ -31,10 +33,21 @@
 * mrd1.map - Bakery
 * mrdf.map - Happy Burger
 * mre1.map - Clothing store
+* mre2.map - Happy Burger again?
+* mree.map - Halls
+* mref.map - 1st floor women's bathroom
+* mrf1.map - Bookstore
+* mrfd.map
+* mrfe.map - Happy Burger exit
+* mrff.map - Alley
 ### bgmu.arc - mall otherworld
 ### bgot.arc - motel room
 ### bgtg.arc - area between hilltop center and apartment building
 ### bgth.arc - Heaven's Night
 ### bgtp.arc - amusement park
+* tp1d.map - Merry go round
+* tp1e.map - Merry go round exterior?
+* tp1f.map - Gift shop
+* 
 ### bgtr.arc - subway
 ### bgus.arc - underpass/sewers
