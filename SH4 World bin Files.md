@@ -53,6 +53,8 @@
 * cm24 - halls
 * cm25 - room 302 of the past bedroom
 ### ed - endings
+* ed00 - Eilrrn hospital room
+* ed01 - South Ashfield Heights exterior
 ### fr - Forest World
 ### gt - Invalid world mesh version
 ### hs - Hospital World
@@ -60,13 +62,58 @@
 * hs08 - stairs
 ### ie - Apartment World 2?
 ### mz - water prison
+* mz01 - Floor
+* mz02 - Cell
+* mz03 - Center room
+* mz04 - Cell
+* mz05 - Cell
+* mz06 - Cell
+* mz07 - Cell
+* mz08 - Cell
+* mz09 - Cell
+* mz10 - Cell
+* mz11 - Floor
+* mz12 - Cell
+* mz13 - Center room
+* mz14 - Cell
+* mz15 - Cell
+* mz16 - Cell
+* mz17 - Cell
+* mz18 - Cell
+* mz19 - Cell
+* mz20 - Cell
+* mz21 - Floor
+* mz22 - Cell
+* mz23 - Center room
+* mz24 - Cell
+* mz25 - Cell
+* mz26 - Cell
+* mz27 - Cell
+* mz28 - Cell
+* mz29 - Cell
+* mz30 - Cell
+* mz31 - Exterior
+* mz32 - Basement
+* mz33 - Roof
+* mz34 - Portal room
+* mz35 - Basement center room
+* mz36 - Cafeteria
+* mz37 - Shower room
+* mz38 - Kitchen
+* mz39 - Torture room
+* mz40 - Interior spiral stairs
+* mz41 - Basement exit hall
+* mz42 - Basement exit hall long
+* mz43 - Roof circular room
 ### sb - subway
 ### st - stairs in between worlds
-* st01.bin - hospital world to forst world
-### tw - town?
-
-
-
+* st01 - Hospital world to subway world
+* st02 - Subway world to forest world
+* st03 - Stairs with sheep
+* st04 - Stairs
+### tw - town
+* tw00 - Building exterior from window
+* tw01 - Same
 ### rl - Room302
 * rl00 - Room 302 main room
   * rl00a - Foggy daytime outside
