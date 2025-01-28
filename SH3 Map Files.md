@@ -14,6 +14,21 @@
 * bcfe.map - Exterior ground
 * bcff.map
 ### bgbr.arc - Hilltop Center
+* br1d.map - Office
+* br1e.map - Hallway
+* br1f.map - Multi-person office
+* br2e.map - Floor ? main hallway
+* br2f.map - Art gallery
+* br3e.map - Art gallery storage
+* br3f.map - Hallway
+* br11.map - Mannequin room
+* br12.map - Hallway
+* br13.map - Exterior scaffolding
+* br21.map - Floor ? mail hallway
+* br22.map - Hallway
+* br23.map - Dance studio
+* br31.map - Locker room
+* br32.map - Multi-person office
 ### bgbu.arc - Hilltop Center otherworld
 ### bgcc.arc - Silent Hill exterior
 ### bgcm.arc - Douglas's car
