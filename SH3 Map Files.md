@@ -48,6 +48,32 @@
 * tp1d.map - Merry go round
 * tp1e.map - Merry go round exterior?
 * tp1f.map - Gift shop
-* 
+* tp2e.map - Exterior near merry go round
+* tp2f.map - Cave with treasure
+* tp3d.map - Long hallway
+* tp3f.map - Exterior
+* tp11.map - Round area
+* tp12.map - Haunted house exterior
+* tp13.map - Haunted house
+* tp21.map - Fortune teller
+* tp22.map - Exterior
+* tp23.map - Haunted house halls
+* tp31.map - Cave with princesses
+* tp33.map - Haunted house halls
+* tpd1.map - Exterior stairs
+* tpd3.map - Haunted house entrance
+* tpde.map - Exterior
+* tpdf.map - Real world teacup ride exterior
+* tpe1.map - Roller coaster
+* tpe2.map - Exterior
+* tpe3.map - Haunted house
+* tpee.map - Theatre
+* tpef.map - Exterior
+* tpf1.map - Entrance
+* tpf2.map - Exterior
+* tpf3.map - Haunted house
+* tpfd.map - Carousel exit
+* tpfe.map - Exterior
+* tpff.map - Exterior
 ### bgtr.arc - subway
 ### bgus.arc - underpass/sewers
