@@ -14,11 +14,19 @@
 * bd13 - Hallway where shovel weapon is found
 * bd14 - Bar
 * bd15 - Richard death room
-* bd16 -
-* bd17 -
-* bd18 -
-* bd19 -
-* bd20 - 
+* bd16 - Square stairwell 
+* bd17 - Fleshy wheelchair room
+* bd18 - Long hall/alley
+* bd19 - Red rust stairs
+* bd20 - Red rust stairs
+* bd21 - Many door multi level room
+* bd22 - Grey brick stairs
+* bd23 - Pet store
+* bd24 - Upside down clock room
+* bd25 - Spiral staircase and fences room
+* bd26 - Small hallway
+* bd27 - Square stairwell again
+* bd28 - Wrecked petstore
 ### cm - apartment world
 * cm01 - main stairway
 * cm02 - floor 1 and 2 hallways 1-4 side
