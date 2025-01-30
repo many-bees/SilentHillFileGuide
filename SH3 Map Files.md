@@ -29,6 +29,11 @@
 * br23.map - Dance studio
 * br31.map - Locker room
 * br32.map - Multi-person office
+* bre1.map - Floor ? main hall
+* brf1.map - Furniture store room with bed
+* brf2.map - Furniture store room with tub
+* brf3.map - Otherworld transition room
+* brff.map - Stairwell
 ### bgbu.arc - Hilltop Center otherworld
 ### bgcc.arc - Silent Hill exterior
 ### bgcm.arc - Douglas's car
