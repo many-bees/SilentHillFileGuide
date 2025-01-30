@@ -41,6 +41,7 @@
 ### bgcr.arc - church main chapel
 * cr11.map - Chapel
 ### bgcu.arc - the rest of the church
+
 ### bgcz.arc - final boss area
 ### bghc.arc - Leonard boss fight area and path to that area
 ### bghp.arc - hospital
@@ -49,6 +50,12 @@
 * mr1e.map - Main room
 * mr1f.map - Entrance
 * mr2e.map - Stairwell
+* mr2f.map - Hallway
+* mr11.map - Hallway
+* mr12.map - Hallway
+* mr21.map - Storage room
+* mr22.map - Storage room
+* mrc3.map - Hallway of some kind I think
 * ---
 * mrd1.map - Bakery
 * mrdf.map - Happy Burger
