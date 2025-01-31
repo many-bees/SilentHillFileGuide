@@ -10,7 +10,10 @@ Allows the browsing of various archives to view and extract textures from them. 
 General extraction tool for various files found in Silent Hill 2 & 3. Can be used to get stuff like .mdl files and .adx files from the game but usually other programs are needed to convert those files into a usable form.
 
 ### [Psilent pHill 2](https://github.com/pmttavara/ph2/tree/main)
-Silent Hill 2 map viewer that allows maps to be exported into .obj format. For some reason when you loaed them into Blender their massive though so scale the mesh down a bunch if you wanna actually see it.
+Silent Hill 2 map viewer that allows maps to be exported into .obj format. For some reason when you load them into Blender they're massive though so scale the mesh down a bunch if you wanna actually see it.
+
+### [SH2_map](https://github.com/alanm20/SH2_map)
+Noesis plugin for SH2 maps
 
 # Silent Hill 3
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
