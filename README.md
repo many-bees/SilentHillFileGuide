@@ -27,11 +27,9 @@ Exports usable files from .arc files
 ### [SH3_chr](https://github.com/alanm20/SH3_chr/tree/main)
 Despite being called a character loader it can also load anything else that's in the .mdl format such as items and weapons.
 
-### [Perdedork's Silent Hill Level Viewer](https://www.silenthillmemories.net/sh2/modding_en.htm)
-Unfortunately this doesn't allow for maps to be exported but I've managed to sorta save them using [3DVIA Printscreen](https://dassault-systemes-3dvia-printscreen.software.informer.com/download/) and this website called [3dEncoder](https://3dencoder.com/). Unfortunately that method doesn't include textures and I haven't yet figured out a way to extract all map textures but I'm working on it.
 
 ### [alamn20's Silent Hill 3 Map Noesis Plugin](https://github.com/alanm20/SH3_map0)
-Discovered this way after Peredork's level viewer and what do you know, it actually does allow you to export maps. When I look at the map in Noesis most of the materials are assigned to the wrong slots but that's apparently only happened to me and it's easy to fix in Blender anyways. It's compatible with the SH4 mesh plugin but conflicts with Spargas's plugins. Make sure to click "Clear Custom Split Normals Data" for each object when you import them into Blender otherwise your lighting will get all fucked up.
+Lets you view and export map files from Silent Hill 3. It's compatible with the SH4 mesh plugin but conflicts with Spargas's plugins. Make sure to click "Clear Custom Split Normals Data" for each object when you import them into Blender otherwise your lighting will get all fucked up.
 
 # Silent Hill 4
 ### [sh4worldmeshimport](https://github.com/HunterStanton/sh4worldmeshimport)
