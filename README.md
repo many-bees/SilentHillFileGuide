@@ -28,7 +28,7 @@ Exports usable files from .arc files
 Despite being called a character loader it can also load anything else that's in the .mdl format such as items and weapons.
 
 
-### [alamn20's Silent Hill 3 Map Noesis Plugin](https://github.com/alanm20/SH3_map0)
+### [alamn20's Silent Hill 3 Map Noesis Plugin](https://github.com/alanm20/SH3_map)
 Lets you view and export map files from Silent Hill 3. It's compatible with the SH4 mesh plugin but conflicts with Spargas's plugins. Make sure to click "Clear Custom Split Normals Data" for each object when you import them into Blender otherwise your lighting will get all fucked up.
 
 # Silent Hill 4
