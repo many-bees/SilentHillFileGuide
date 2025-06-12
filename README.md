@@ -1,6 +1,6 @@
 # Silent Hill 1
 ### [Duckstation 3D Screenshot](https://github.com/scurest/duckstation-3D-Screenshot)
-Models don't come rigged so it's not an ideal solution but it gets everyothing out perfectly fine.
+Models don't come rigged so it's not an ideal solution but it gets everything out perfectly fine. Might work better with vertex jitter turned off but I still need to test that.
 
 # Silent Hill 2
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
