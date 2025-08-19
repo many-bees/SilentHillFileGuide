@@ -36,6 +36,7 @@
 * brff.map - Stairwell
 ### bgbu.arc - Hilltop Center otherworld
 ### bgcc.arc - Silent Hill exterior
+* cc20.map - Jack's Inn motel exterior
 ### bgcm.arc - Douglas's car
 * cmf1.map - Douglas car, road, and trees
 ### bgcr.arc - church main chapel
