@@ -2,6 +2,9 @@
 ### [Duckstation 3D Screenshot](https://github.com/scurest/duckstation-3D-Screenshot)
 Models don't come rigged so it's not an ideal solution but it gets everything out perfectly fine. Might work better with vertex jitter turned off but I still need to test that.
 
+### [Silent Hill Museum](https://silenthillmuseum.org/)
+This site originally only had SH2 models but it has added SH1 models so if you want rigged models from this game this is the place to look.
+
 # Silent Hill 2
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
 Allows the browsing of various archives to view and extract textures from them. This page also lists a model exporter but it's in .obj format so you're better off just downloading stuff from [Silent Hill Museum](https://silenthillmuseum.org/).
