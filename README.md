@@ -53,7 +53,7 @@ A plugin based on the one linked above that works with the PC version of the gam
 # Silent Hill 2 Remake/Silent Hill f
 
 ### [FModel](https://fmodel.app/)
-General tool for ripping models and textures and stuff from Unreal Engine games. One of the ways in which modern games are much easier to rip stuff from.
+General tool for ripping models and textures and stuff from Unreal Engine games. One of the ways in which modern games are much easier to rip stuff from. Mappings files to use with fmodel can be found in [fmodel_mappings_files](https://github.com/many-bees/SilentHillFileGuide/tree/main/fmodel_mappings_files)
 
 
 I figure everyone here knows how to download Noesis and Blender already and I don't need to list them. Also audio files from these games can be opened and converted with VLC Media Player.
