@@ -16,7 +16,7 @@ General extraction tool for various files found in Silent Hill 2 & 3. Can be use
 Silent Hill 2 map viewer that allows maps to be exported into .obj format. For some reason when you load them into Blender they're massive though so scale the mesh down a bunch if you wanna actually see it.
 
 ### [SH2_map](https://github.com/alanm20/SH2_map)
-Noesis plugin for SH2 maps
+Noesis plugin for SH2 maps. If you export them in GLTF format then the textures are applied automatically when you import them to Blender.
 
 # Silent Hill 3
 ### [Silent Hill Texture Explorer](https://www.silenthillmemories.net/sh2/modding_en.htm)
