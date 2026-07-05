@@ -50,7 +50,7 @@ This can extract textures from .bin files and unlike the texture explorer tool i
 ### [alanm20's SH4_bone_mesh_bin_PC](https://github.com/alanm20/SH4_bone_mesh_bin_PC)
 A plugin based on the one linked above that works with the PC version of the game. Some files get slightly different results so I'm leaving the other plugin linked too. It's of course incompatible with that other plugin and I'm pretty sure it overrides Spargas's plugin
 
-# Silent Hill 2 Remake
+# Silent Hill 2 Remake/Silent Hill f
 
 ### [FModel](https://fmodel.app/)
 General tool for ripping models and textures and stuff from Unreal Engine games. One of the ways in which modern games are much easier to rip stuff from.
