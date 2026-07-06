@@ -56,7 +56,7 @@
 * ed00 - Eilrrn hospital room
 * ed01 - South Ashfield Heights exterior
 ### fr - Forest World
-### gt - Invalid world mesh version
+### gt - A bunch of tubes. Might be the tunnels Henry crawls through but I'm not sure.
 ### hs - Hospital World
 * hs04 - hospital lower floor main hallway room thing
 * hs08 - stairs
