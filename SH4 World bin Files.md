@@ -155,3 +155,4 @@ Ceiling fan - Need to find for apartment
 
 
 di025a - Room 302 open door
+di49 - Phone and rigged cord
