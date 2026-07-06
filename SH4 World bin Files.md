@@ -152,3 +152,6 @@ ls01 - Right before boss arena
 ls02 - Boss Arena
 
 Ceiling fan - Need to find for apartment
+
+
+di025a - Room 302 open door
